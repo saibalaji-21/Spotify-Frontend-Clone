@@ -28,9 +28,6 @@ No additional setup or dependencies are required.
 ├── ...                # Other image and icon assets
 ```
 
-## Screenshots
-![Screenshot](screenshot.png)
-
 ## Credits
 - All images and icons are for demonstration purposes only and belong to their respective owners.
 
